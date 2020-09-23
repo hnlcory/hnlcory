@@ -3,10 +3,6 @@
 
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
 
-<p align="left">
-<a href="https://instagram.com/hnl.cory" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hnl.cory" height="40" width="40" /></a>
-</p>
-
 <!--
 **hnlcory/hnlcory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
