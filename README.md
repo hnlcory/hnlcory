@@ -1,5 +1,5 @@
 ### 📚 Pursuing: BS in Computer Security Science
-### 📑 I’m currently working on: [Java](https://github.com/hnlcory/ICS111/tree/master/Project4)
+### 📑 I’m currently working on: [Java](https://github.com/hnlcory/ICS111/tree/master/Project4/src)
 
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
 
