@@ -3,7 +3,7 @@
 
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
 
-<p align="center">
+<p align="left">
 <a href="https://instagram.com/hnl.cory" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hnl.cory" height="30" width="30" /></a>
 </p>
 
