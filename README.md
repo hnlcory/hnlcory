@@ -1,5 +1,5 @@
-### 🔭 I’m currently working on Java
-### 📫 Pursuing a BS in Computer Security Science
+### 🔭 I’m currently working on: Java
+### 📫 Pursuing: BS in Computer Security Science
 
 <!--
 **hnlcory/hnlcory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
