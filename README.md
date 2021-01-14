@@ -1,5 +1,5 @@
 ### 📚 Pursuing: BS in Computer Security Science
-### 📑 Currently working on: [Java](https://github.com/hnlcory/ICS111)
+### 📑 Currently working on: [Java](https://github.com/hnlcory/ICS211)
 
 
 
