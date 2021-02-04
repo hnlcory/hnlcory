@@ -1,4 +1,5 @@
 ### 📚 Pursuing: BS in Computer Security Science
+### 💻 Languages: Python, Java
 ### 📑 Currently working on: [Java Assignments](https://github.com/hnlcory/ICS211/tree/master/clparker/src/edu/ics211)
 
 
