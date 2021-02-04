@@ -2,7 +2,7 @@
 ### 💻 Languages: HTML, Python, Java
 ### 📂 Courses Completed: AP CS, ICS 110, ICS 111
 ### 📑 Currently working on: [Java Assignments](https://github.com/hnlcory/ICS211/tree/master/clparker/src/edu/ics211)
-[![Spotify](novatorem.hnlcory.vercel.app)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://novatorem-git-master.hnlcory.vercel.app/api/spotify-playing)](https://open.spotify.com/user/USER_NAME)
 
 
 <!--
