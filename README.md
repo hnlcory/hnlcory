@@ -3,7 +3,7 @@
 ### 📂 Courses Completed: AP CS, ICS 110, ICS 111
 ### 📑 Currently working on: [Java Assignments](https://github.com/hnlcory/ICS211/tree/master/clparker/src/edu/ics211)
 
-[![Spotify](https://novatorem.hnlcory.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://novatorem.hnlcory.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME) 
 
 
 <!--
