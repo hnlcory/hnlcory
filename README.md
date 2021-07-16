@@ -1,4 +1,4 @@
-### 📚 Pursuing: BS in Computer Security Science
+### 📚 Pursuing: B.S. in Computer Security Science
 ### 💻 Working With: HTML/CSS, Python, Java
 ### 📂 Courses Completed: APCS, ICS 110, ICS 111, ICS 211
 ### 📑 Currently working on: [Java Assignments](https://github.com/hnlcory/ICS211/tree/master/clparker/src/edu/ics211)
