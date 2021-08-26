@@ -1,7 +1,7 @@
 ### 📚 Pursuing: B.S. in Computer Security Science
 ### 💻 Working With: HTML/CSS, Python, Java, C, C++
 ### 📂 Courses Completed: APCS, ICS 110, ICS 111, ICS 211
-### 📑 Currently working on:
+### 📑 Currently working on: [212 Assignments](https://github.com/hnlcory/ICS212) [141 Assignments](https://github.com/hnlcory/ICS141)
 
 
 
