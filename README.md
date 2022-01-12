@@ -2,7 +2,7 @@
 ### 💻 Working With: HTML/CSS, Python, Java, C, C++
 ### 📂 Courses Completed: APCS, ICS 110, ICS 111, ICS 141, ICS 211, ICS 212
 ### 📝 Resume: [Website](https://hnlcory.github.io/) or [PDF Version](https://github.com/hnlcory/hnlcory.github.io/blob/master/Resume.pdf)
-### 📑 Currently working on: [212 Assignments](https://github.com/hnlcory/ICS212)
+### 📑 Currently working on: [314 Assignments](https://github.com/hnlcory/hnlcory.github.io)
 
 
 <!--
