@@ -1,5 +1,5 @@
 ### 📚 Pursuing: [B.S. in Computer Security Science](http://www.ics.hawaii.edu/wp-content/uploads/2020/04/ICS_BS_SecurityScience_Flowchart-scaled.jpg)
-### 💻 Working With: HTML/CSS, Python, Java, C, C++, Javascript
+### 💻 Working With: HTML/CSS, Python, Java, C, C++, JavaScript
 ### 📂 Courses Completed: APCS, ICS 110, ICS 111, ICS 141, ICS 211, ICS 212
 ### 📝 Resume: [Website](https://hnlcory.github.io/) or [PDF Version](https://github.com/hnlcory/hnlcory.github.io/blob/master/images/Resume.pdf)
 ### 📑 Currently working on: [314 Assignments](https://github.com/hnlcory/hnlcory.github.io)
