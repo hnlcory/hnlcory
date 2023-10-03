@@ -6,7 +6,7 @@
 ###   - ICS 311, ICS 314, ICS 321, ICS 355
 ###   - ICS 425
 ### 📝 Resume: [LinkedIn](https://www.linkedin.com/in/oahucory/)
-### 📑 Currently working on: [SQL Database](https://github.com/hnlcory/ICS321) and [Azure VM Control](https://github.com/hnlcory/AzureVMS/tree/main/Scripts)
+### 📑 Currently working on: [OS](https://github.com/hnlcory/ICS332) and [Azure VM Control](https://github.com/hnlcory/AzureVMS/tree/main/Scripts)
 
 
 <!--
