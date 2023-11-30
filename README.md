@@ -5,12 +5,12 @@
 ###   - ICS 211, ICS 212, ICS 222, ICS 241
 ###   - ICS 311, ICS 314, ICS 321, ICS 355
 ###   - ICS 425
-### 📝 Resume: [LinkedIn](https://www.linkedin.com/in/oahucory/)
+###
 ### 📑 Currently working on: [OS](https://github.com/hnlcory/ICS332) and [Azure VM Control](https://github.com/hnlcory/AzureVMS/tree/main/Scripts)
 
 
 <!--
-
+📝 Resume: [LinkedIn](https://www.linkedin.com/in/oahucory/)
  [Java Assignments](https://github.com/hnlcory/ICS211/tree/master/clparker/src/edu/ics211)
 
 **hnlcory/hnlcory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
