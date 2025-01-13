@@ -7,7 +7,7 @@
 ###   - ICS 425, ICS 426, ICS 428, ICS 451
 ###   - ECE 406
 ###
-### 📑 Currently working on: [OS](https://github.com/hnlcory/ICS332) and [Azure VM Control](https://github.com/hnlcory/AzureVMS/tree/main/Scripts)
+### 📑 Currently working on: [SEED Labs](https://seedsecuritylabs.org/)
 
 
 <!--
